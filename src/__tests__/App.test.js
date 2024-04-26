@@ -29,6 +29,7 @@ test("should include the <TestComponent />", () => {
 
 //   it('should include the ExampleComponent', () => {
 //     expect(wrapper.text()).to.include('<ExampleComponent />')
+
 //   });
 
 //   it('should include the TestComponent', () => {
